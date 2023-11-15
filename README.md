@@ -50,9 +50,12 @@ Singleton is a creational design pattern that lets you ensure that a class has o
 **Application Level:**
 **Admin Features:**
 
-1. LogIn
-2. View all Bookings
-3. View all Users
+1. View all Bookings
+2. View all Users
+3. View all Hotels
+4. Alter Bookings
+5. Alter Users
+6. Alter Hotels
 
 **User Features:**
 
@@ -63,4 +66,5 @@ Singleton is a creational design pattern that lets you ensure that a class has o
 5. Update booking
 6. Delete booking
 7. View Reward Points
-8. View services
+8. View Services
+9. Dynamic Pricing 
