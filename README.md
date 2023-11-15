@@ -47,7 +47,10 @@ Chain of Responsibility is a behavioral design pattern that lets you pass reques
 **Singleton design pattern**
 Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.Singleton design pattern for the validation.
 
-**Application Level:**
+**Personas**
+1. Admin
+2. User
+
 **Admin Features:**
 
 1. View all Bookings
